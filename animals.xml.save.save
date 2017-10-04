@@ -1,0 +1,22 @@
+<mammals>
+        <dogs>
+                <german shorthair retriever></dogs>
+        <cats>
+                <mancoon></cats>
+        <lions>
+                <panther></lions>
+        <alligators>
+                <crocodile></alligators>
+        <birds>
+                <snowy owl></birds>
+<mammals>
+	<dogs>
+		<german shorthair retriever></dogs>
+	<cats>
+		<mancoon></cats>
+	<lions>		
+		<panther></lions>
+	<alligators>
+		<crocodile></alligators>
+	<birds>
+		<snowy owl></birds>
